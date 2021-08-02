@@ -1,3 +1,3 @@
 <?php
-  include_once("kuis.html");
+  include_once("soal.html");
 ?>
